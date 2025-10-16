@@ -3,5 +3,4 @@ package com.example.gmailapp
 class Email(
     val sender: String,
     val title: String,
-    val summary: String) {
-}
+    val summary: String)
